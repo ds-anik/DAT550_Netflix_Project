@@ -6,7 +6,7 @@
 In over 190 countries, Netflix members get instant access to every content available. Netflix content will vary by region, and may change over time. The more users watch the contents, the better Netflix succeeds at recommending TV shows and movies they will enjoy watching.<div/>
 
 <br>
-<p align="center"><img src="https://github.com/Ali-HZN/DAT550_Netflix_Project/blob/main/images/netflix.jpg"/></p>
+<p align="center"><img src="https://github.com/ds-anik/DAT550_Netflix_Project/blob/main/images/netflix.jpg"/></p>
 
 <br>
 
